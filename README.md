@@ -1,6 +1,5 @@
 # Power-BI-Project
 An interactive Power BI dashboard designed to analyze sales performance, revenue trends, product performance, and key business metrics. It helps identify sales patterns and supports data-driven business decisions.
-# Sales Dashboard – Return Analysis | Power BI
 
 ## Project Overview
 This project is an interactive Sales Dashboard developed using Microsoft Power BI to analyze sales performance and product returns. It provides insights into total sales, total orders, returns, return percentages, customer return behavior, shipping days, geographical distribution, and monthly profit and sales trends.
